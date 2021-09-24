@@ -7,6 +7,6 @@ r = sr.Recognizer()
 
 # Abrir o microfone para captura
 with sr.Microphone() as source:
-  audio = r.listen(source) # Define microfonr como fonte de audio
+  audio = r.listen(source) # Define microfone  como fonte de audio
 
   print(r.recognize_google(audio))
