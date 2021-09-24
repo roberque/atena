@@ -1,4 +1,4 @@
-# our main file.
+# Our main file.
 
 import speech_recognition as sr
 
