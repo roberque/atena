@@ -1,13 +1,13 @@
 # atena
  Um Assistente Virtual feito Em Python.
 
-foco :
-  facil de aprender.
-  rápido e expansivel.
+Foco :
+  Facil de aprender.
+  Rápido e expansivel.
 
-  técnologias:
-   reconhecimento de voz.
+  Técnologias:
+   Reconhecimento de voz.
    Sintese de voz.
    Algunm tipo de IA.
 
-   
+
